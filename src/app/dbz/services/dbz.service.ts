@@ -16,8 +16,7 @@ export class DbzService {
     {id: uuid(), name: 'Mingo', power: 105 },
     {id: uuid(), name: 'Peter', power: 14 },
     {id: uuid(), name: 'Jero', power: 311 },
-    {id: uuid(), name: 'Antonio', power: 520 },
-    {id: uuid(), name: 'Manuela', power: 1015 },
+    {id: uuid(), name: 'Antonio', power: 520 }
   ]
 
 
